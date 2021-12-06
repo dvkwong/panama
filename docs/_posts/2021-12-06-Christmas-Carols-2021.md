@@ -31,6 +31,8 @@ Where: Ian Shaw Park, Mount Wellington
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Ql6ovGqk4Us7VvxFf2q8xSyDscZwxPi6" width="640" height="480"></iframe>
 
+[Google maps](https://www.google.com/maps/d/edit?mid=1Ql6ovGqk4Us7VvxFf2q8xSyDscZwxPi6&usp=sharing)
+
 ![Christmas Carols 2021]({{ site.url }}{{ site.baseurl }}//assets/posts/2021/ChristmasCarols2021.png)
 
 [Christmas Carols 2021 pdf]({{ site.url }}{{ site.baseurl }}//assets/posts/2021/ChristmasCarols2021.pdf)
