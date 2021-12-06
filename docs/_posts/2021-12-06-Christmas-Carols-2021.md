@@ -30,7 +30,8 @@ Where: Starting from Ian Shaw Park, Mount Wellington
 7. Corner Panama and McClennan (Not Bridge side)
 8. Richmond Apartments - Tahuhu Road Reserve area
 9. Corner of Hillside Road and Camp Road
-10. ???? - finish where????
+10. Sosene Ropati Lane (260 Panama Road)
+11. Back to Ian Shaw Park
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1Ql6ovGqk4Us7VvxFf2q8xSyDscZwxPi6" width="640" height="480"></iframe>
 
