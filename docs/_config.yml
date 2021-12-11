@@ -3,6 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: Panama
 description: Residents and Community website
 logo: "/assets/icons/Icon.png"
+repository: dvkwong/panama
 search: true
 
 minimal_mistakes_skin: "default" 
