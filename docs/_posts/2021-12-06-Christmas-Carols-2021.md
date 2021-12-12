@@ -16,9 +16,9 @@ When: 18th Dec 2021 @ 3pm
 
 Where: Starting from Ian Shaw Park, Mount Wellington
 
-![Christmas Carols 2021]({{ site.url }}{{ site.baseurl }}//assets/posts/2021/ChristmasCarols2021.png)
+![Christmas Carols 2021]({{ site.url }}{{ site.baseurl }}/assets/posts/2021/ChristmasCarols2021.png)
 
-[Christmas Carols 2021 pdf]({{ site.url }}{{ site.baseurl }}//assets/posts/2021/ChristmasCarols2021.pdf)
+[Christmas Carols 2021 pdf]({{ site.url }}{{ site.baseurl }}/assets/posts/2021/ChristmasCarols2021.pdf)
 ### Stops
 
 1. Ian Shaw Park Entrance/ Panama Road
